@@ -495,6 +495,8 @@ Md. Omar Khan - mdomarkhan314@gmail.com
 
 ---
 
+🙏 Acknowledgments
+
 - Google APIs Documentation
 - BeautifulSoup for HTML parsing
 - Python community for excellent libraries
