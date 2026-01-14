@@ -91,6 +91,13 @@ A Python automation system that reads unread emails from Gmail and logs them int
 
 ---
 
+## 📷 Screenshots
+<img width="1917" height="861" alt="image" src="https://github.com/user-attachments/assets/821f4a99-0354-4d8e-871b-988d82cc03a6" />
+<img width="1918" height="846" alt="image" src="https://github.com/user-attachments/assets/2d868cc6-802b-4486-8970-9f1a45b2e5d7" />
+
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/43d88e91-9ed2-47ae-88e0-403a5165dd98" />
+
+
 ## 📦 Prerequisites
 
 - Python 3.8 or higher
